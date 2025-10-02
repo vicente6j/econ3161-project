@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: econ3161-project
+message: project for econ 3161 fall 25
+type: software
+authors:
+  - given-names: Vicente
+    family-names: Miranda
+    email: miranda.vicente2003@gmail.com
+    affiliation: Georgia Institute of Technology
+repository-code: 'https://github.com/vicente6j/econ3161-project'
+url: 'https://github.com/vicente6j/econ3161-project'
+abstract: >-
+  standard pandas schematic for mapping United Nations World
+  Populations Prospects Survey (2024) to Barro Lee 2013
+  educational attainment dataset.
+keywords:
+  - pandas
+  - python
+  - education
+  - fertility
+commit: 3d1a2b8
+version: '1.0'
+date-released: '2025-10-02'
